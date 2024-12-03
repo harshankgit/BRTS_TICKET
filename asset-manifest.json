@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BRTS_TICKET/static/css/main.ceaefdce.css",
+    "main.js": "/BRTS_TICKET/static/js/main.194639d3.js",
+    "static/js/453.105e41f8.chunk.js": "/BRTS_TICKET/static/js/453.105e41f8.chunk.js",
+    "static/media/scan.png": "/BRTS_TICKET/static/media/scan.dc66b98ddaf4a5504fea.png",
+    "index.html": "/BRTS_TICKET/index.html",
+    "main.ceaefdce.css.map": "/BRTS_TICKET/static/css/main.ceaefdce.css.map",
+    "main.194639d3.js.map": "/BRTS_TICKET/static/js/main.194639d3.js.map",
+    "453.105e41f8.chunk.js.map": "/BRTS_TICKET/static/js/453.105e41f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceaefdce.css",
+    "static/js/main.194639d3.js"
+  ]
+}
